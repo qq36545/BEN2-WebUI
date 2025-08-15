@@ -11,6 +11,7 @@ BEN2 (Background Erase Network) introduces a novel approach to foreground segmen
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ben-using-confidence-guided-matting-for/dichotomous-image-segmentation-on-dis-vd)](https://paperswithcode.com/sota/dichotomous-image-segmentation-on-dis-vd?p=ben-using-confidence-guided-matting-for)
 
 
+<img width="1370" height="1269" alt="image" src="https://github.com/user-attachments/assets/353e2c32-8449-463f-ba7c-f6b21c9bd2fe" />
 
 
 ## BEN2 access
